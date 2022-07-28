@@ -1,0 +1,25 @@
+{
+    "ListProducts":[
+        {
+           "id": 1,
+           "name":"San pham A",
+           "amount": 3,
+           "category": "Loai A",
+           "price": 1000    
+        },
+        {
+            "id": 2,
+            "name":"San pham B",
+            "amount": 3,
+            "category": "Loai B",
+            "price": 1000    
+         },
+         {
+            "id": 3,
+            "name":"San pham C",
+            "amount": 3,
+            "category": "Loai D",
+            "price": 1000    
+         }
+    ]
+}
